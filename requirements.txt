@@ -59,7 +59,7 @@ py==1.8.0
 py4j==0.10.8.1
 pyasn1==0.4.5
 pycryptodomex==3.8.0
-Pygments==2.3.1
+Pygments==2.7.4
 PyInstaller==3.4
 pymongo==3.7.2
 PyMySQL==0.9.3
